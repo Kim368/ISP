@@ -1,0 +1,21 @@
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csprojAssemblyReference.cache
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.AssemblyInfoInputs.cache
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.AssemblyInfo.cs
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csproj.CopyComplete
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.genruntimeconfig.cache
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.exe
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\work\documents\Study\3sem\ИСП\Lab4\Data Access Layer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

@@ -1,0 +1,7 @@
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\obj\Debug\Lab2_Extract.csprojAssemblyReference.cache
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\obj\Debug\Lab2_Extract.csproj.CoreCompileInputs.cache
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\bin\Debug\Lab2_Extract.exe.config
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\bin\Debug\Lab2_Extract.exe
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\bin\Debug\Lab2_Extract.pdb
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\obj\Debug\Lab2_Extract.exe
+D:\work\documents\Study\3sem\ИСП\Extract\Lab2_Extract\obj\Debug\Lab2_Extract.pdb
